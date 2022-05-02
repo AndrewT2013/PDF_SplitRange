@@ -1,1 +1,2 @@
 # PDF_SplitRange
+# A code that allows the user to access a particular PDF file and allow the documents to be split based on a given range to create a new PDF file. Maily focused on the pypdf2 library which allows us to access the associated PDF file while allowing us to split the associated pages with the given range to create an entirely new PDF file within the operating system by accessing documents via an os library search.
